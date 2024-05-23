@@ -51,7 +51,7 @@ This project is a web application that allows users to search for images using k
 
 ---
 
-**Example:**
+**Examples:**
 <div style="display: flex; justify-content: space-between;">
     <img src="Example1.png" alt="Example 1" style="width: 45%;">
     <img src="Example2.png" alt="Example 2" style="width: 45%;">
