@@ -59,4 +59,3 @@ This project is a web application that allows users to search for images using k
 
 ---
 
-This readme file provides an overview of the Dynamic Image Search Web App project, including its structure, usage, and contribution guidelines.
