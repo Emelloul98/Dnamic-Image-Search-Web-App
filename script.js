@@ -3,7 +3,7 @@ var all_results = [];
 var container;
 var num_of_pages = 0;
 var query;
-var clientId = "Qzn79ipgxgy-OEdZ6g27J7Sjl80wp2ejhdbVdyDTbaY";
+var clientId = "enter you private id";
 
 // Function that creates the HTML tags
 function init() {
